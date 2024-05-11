@@ -11,7 +11,8 @@ let total = 999;//PB
 let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
-let MainData = `vless://fcdc3313-bc89-3333-995a-6b80e94a5b92@phaa.entrust.pp.ua:2096/?type=ws&encryption=none&host=pha.entrust.pp.ua&path=%2F&security=tls&sni=pha.entrust.pp.ua&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%E5%87%A4%E5%87%B0%E5%9F%8E%40YUANZI
+let MainData = `
+vless://fcdc3313-bc89-3333-995a-6b80e94a5b92@phaa.entrust.pp.ua:2096/?type=ws&encryption=none&host=pha.entrust.pp.ua&path=%2F&security=tls&sni=pha.entrust.pp.ua&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%E5%87%A4%E5%87%B0%E5%9F%8E%40YUANZI,
 https://dyq.adgai.dns.navy/sub?host=cfdy.yueuzi.dynv6.net&uuid=df4608a5-0ceb-4513-b991-596f541bccdb&path=?/ed=2048
 `
 
